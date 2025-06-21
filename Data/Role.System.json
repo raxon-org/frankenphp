@@ -1,0 +1,183 @@
+{
+  "name" : "ROLE_SYSTEM",
+  "rank" : 1,
+  "#class": "Account.Role",
+  "permission": [
+    {
+      "name": "System:Frankenphp:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:rename",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:import",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:record",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:record.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:create",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:create.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:count",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:count.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:commit",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:delete.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:read",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:read.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:put",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:put.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:patch",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:patch.many",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:page",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:page.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action::property.delete",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:list",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:list.relation",
+      "#class": "Account.Permission"
+    },
+    {
+      "name": "System:Frankenphp:Action:rename",
+      "#class": "Account.Permission"
+    }
+  ]
+}
