@@ -22,8 +22,7 @@ class Cli extends Controller {
     const DIR = __DIR__ . '/';
     const MODULE_INFO = 'Info';
     const INFO = [
-        '{{binary()}} raxon/frankenphp              | Frankenphp options',
-        '{{binary()}} raxon/frankenphp setup        | Frankenphp setup'
+        '{{binary()}} raxon/frankenphp              | Frankenphp options',        
     ];
 
     /**
